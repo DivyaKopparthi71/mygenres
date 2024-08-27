@@ -41,7 +41,7 @@ To get started with this project, follow these steps:
 Clone the Repository:
 bash
 Copy code
-git clone https://github.com/DivyaKopparthi71/mygenres
+git clone https://github.com/DivyaKopparthi71/songs-recommendation-system-Genres
 Install Dependencies:
 bash
 Copy code

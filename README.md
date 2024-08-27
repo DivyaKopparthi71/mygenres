@@ -41,7 +41,7 @@ To get started with this project, follow these steps:
 Clone the Repository:
 bash
 Copy code
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/DivyaKopparthi71/mygenres
 Install Dependencies:
 bash
 Copy code

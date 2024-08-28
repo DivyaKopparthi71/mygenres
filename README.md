@@ -59,6 +59,7 @@ These results demonstrate the system's ability to effectively group and recommen
 
 📊 Deployment
 The model is live and accessible through Streamlit. Check out the deployed version here:https://mygenres-gfbpwq9zekmxcfrpe5fsjr.streamlit.app/
+
 🤝 Contributing
 We welcome contributions from the community! Please feel free to fork the repository, create a branch, and submit a pull request. All types of contributions are appreciated.
 

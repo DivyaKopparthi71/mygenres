@@ -7,16 +7,16 @@ As the music industry continues to expand, so does the challenge of discovering 
 🚀 Key Features
 Data Collection via API Scraping: We’ve gathered an extensive dataset of songs, including key attributes like genre, acousticness, danceability, energy, and more, directly from streaming platforms using advanced API scraping methods.
 
-Sophisticated Clustering Techniques:
+🧩Sophisticated Clustering Techniques:
 K-Means Clustering: Applied for basic genre clustering, achieving a silhouette score of 0.6405.
 Hybrid Model (PCA + K-Means): Enhanced clustering by reducing dimensionality first, resulting in a silhouette score of 0.6406.
-TF-IDF + Cosine Similarity + K-Means: Our most successful method, combining textual analysis with clustering, produced an impressive and best silhouette score of 0.9311.
+TF-IDF + Cosine Similarity + K-Means: Our most successful method, combining textual analysis with clustering, produced an impressive and best silhouette score of 🏆 0.9311.
 Streamlit Deployment: The model is deployed through a user-friendly Streamlit interface, providing instant genre-based recommendations.
 
 🎧 How It Works
 Data Scraping & Preprocessing:
 
-We start by scraping detailed music data, including attributes such as Name, Artist, Genres, Acousticness, Danceability, Energy, Track URL, and Album Image URL.
+🎼We start by scraping detailed music data, including attributes such as Name, Artist, Genres, Acousticness, Danceability, Energy, Track URL, and Album Image URL.
 The data is then cleaned and formatted to ensure consistency and readiness for model training.
 Feature Engineering:
 

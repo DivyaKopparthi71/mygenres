@@ -9,7 +9,7 @@ Data Collection via API Scraping: We’ve gathered an extensive dataset of songs
 Sophisticated Clustering Techniques:
 K-Means Clustering: Applied for basic genre clustering, achieving a silhouette score of 0.6405.
 Hybrid Model (PCA + K-Means): Enhanced clustering by reducing dimensionality first, resulting in a silhouette score of 0.6406.
-TF-IDF + Cosine Similarity + K-Means: Our most successful method, combining textual analysis with clustering, produced an impressive silhouette score of 0.9311.
+TF-IDF + Cosine Similarity + K-Means: Our most successful method, combining textual analysis with clustering, produced an impressive and best silhouette score of 0.9311.
 Streamlit Deployment: The model is deployed through a user-friendly Streamlit interface, providing instant genre-based recommendations.
 🎧 How It Works
 Data Scraping & Preprocessing:
@@ -58,8 +58,7 @@ TF-IDF + Cosine Similarity + K-Means: Delivered an outstanding silhouette score 
 These results demonstrate the system's ability to effectively group and recommend songs based on genre-specific preferences, providing users with a tailored music experience.
 
 📊 Deployment
-The model is live and accessible through Streamlit. Check out the deployed version here: Streamlit App
-
+The model is live and accessible through Streamlit. Check out the deployed version here:https://mygenres-gfbpwq9zekmxcfrpe5fsjr.streamlit.app/
 🤝 Contributing
 We welcome contributions from the community! Please feel free to fork the repository, create a branch, and submit a pull request. All types of contributions are appreciated.
 
